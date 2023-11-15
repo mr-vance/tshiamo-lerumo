@@ -2073,9 +2073,6 @@ body.loaded {
   -webkit-transform: rotate(15deg);
   -ms-transform: rotate(15deg);
   transform: rotate(15deg);
-  -webkit-filter: blur(2px);
-  filter: blur(2px);
-  z-index: -1;
 }
 
 .about .profile-img .icon:nth-of-type(3) {
