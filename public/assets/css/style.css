@@ -4262,6 +4262,9 @@ body.loaded {
 .swiper-pagination-bullet {
   background: rgba(255, 255, 255, 0.5);
   margin: 0 7px;
+  width: 30px; /* Adjust the width */
+  height: 30px; /* Adjust the height */
+  border-radius: 50%; /* Makes the bullets circular */
 }
 
 .swiper-pagination-bullet-active {
